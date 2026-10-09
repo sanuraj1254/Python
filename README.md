@@ -25,6 +25,8 @@ A simple Python game where the player competes against the computer.
 - Option to play multiple rounds.
 - Handles invalid choices.
 
+**File:** [`snake_water_gun.py`](projects/snake_water_gun.py)
+
 ### 2. Number Guessing Game
 A fun game where the player tries to guess a randomly generated number.
 
@@ -33,6 +35,8 @@ A fun game where the player tries to guess a randomly generated number.
 - Counts the number of attempts.
 - Handles invalid input.
 - Option to quit the game anytime.
+
+**File:** [`number_guessing_game.py`](projects/number_guessing_game.py)
 
 ## 🛠️ Requirements
 
