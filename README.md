@@ -17,8 +17,22 @@ I am learning Python programming and improving my problem-solving skills through
 
 ## 🎮 Projects
 
-- **Snake, Water, Gun Game** — A simple command-line game built using Python.
-- **Number Guessing Game** — A number guessing game using Python.
+### 1. Snake, Water, Gun Game
+A simple Python game where the player competes against the computer.
+
+- Random choices using Python's `random` module.
+- Score tracking for both player and computer.
+- Option to play multiple rounds.
+- Handles invalid choices.
+
+### 2. Number Guessing Game
+A fun game where the player tries to guess a randomly generated number.
+
+- Random number generation between 1 and 100.
+- Hints to guess higher or lower.
+- Counts the number of attempts.
+- Handles invalid input.
+- Option to quit the game anytime.
 
 ## 🛠️ Requirements
 
