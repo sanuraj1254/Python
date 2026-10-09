@@ -40,4 +40,3 @@ python filename.py
 To strengthen my Python fundamentals, practice coding regularly, and prepare for future opportunities in AI, Data Science, and Software Development.
 
 This repository documents my learning journey and will be updated as I learn more.
-
